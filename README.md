@@ -17,7 +17,7 @@ This project is part of the **FreeCodeCamp Machine Learning with Python** course
 
 ## Achievements
 - Training Accuracy: 74%
-- Validation Accuracy: 74%
+- Validation Accuracy: 69%
 
 ## How to Run
 1. Open `cats_vs_dogs_cnn.ipynb` in [Google Colab](https://colab.research.google.com/)  
